@@ -22,8 +22,8 @@ I’m currently focusing on improving my programming skills and working on proje
 ---
 
 ## 🛠️ Skills
-- **Languages:** C, C++, SQL, HTML, CSS  
-- **Other:** UI/UX, JS, OOP Concepts, Git, GitHub  
+- **Languages:** C, C++, SQL, HTML, CSS , JS, Python
+- **Other:** UI/UX, JS, OOP Concepts, Git, GitHub, AWS, Django
 - **Tools:** VS Code, MySQL, Figma  
 
 ---
